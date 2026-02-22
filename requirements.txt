@@ -1,6 +1,8 @@
+streamlit
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-streamlit
+altair==4.2.2
+pickle-mixin
